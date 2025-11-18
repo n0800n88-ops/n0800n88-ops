@@ -25,7 +25,10 @@
 
 ### 🛠️ 精選專案 (Featured Projects)
 
-* **MVC 架構網站開發**：實作完整 CRUD 功能，整合資料庫管理 [Tech: `ASP.NET MVC`, `SQL Server`, `HTML/CSS`]
+* **[MVC 架構網站開發](https://github.com/n0800n88-ops/MVC-finalproject)** 🔗
+    * 實作完整 CRUD 功能，整合資料庫管理。
+    * **Tech:** `ASP.NET MVC` `SQL Server` `HTML/CSS`
+
 * **系統分析與設計**：Android App 介面設計與流程規劃 [Tech: `Android Studio`, `UML Modeling`]
 
 ### 🏆 證照與成就 (Certifications & Awards)
