@@ -45,7 +45,7 @@
 ### 🏆 證照與成就 (Certifications & Awards)
 
 * **Microsoft Certified:** Azure AI Fundamentals (AI-900)
-* **Google Certified:** Gemini AI Essentials
+* **Google Certified:** Gemini Certification for Educators
 * **Academic:** 元智資管系排名前 11%
 
 ### 📫 聯絡我 (Contact)
