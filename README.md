@@ -49,6 +49,13 @@
       
       [![Hot Pot Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
 
+* **[餐廳訂位 App (UI Design Demo)](https://github.com/n0800n88-ops/Restaurant-Booking-UI)** 🔗
+    * **專案描述：** 專注於 Android 前端介面開發與 Material Design 實作，展示完整的訂位與點餐 UI 流程。
+    * **Tech:** `Android Studio` `Java` `XML Layouts` `UI/UX`
+    * **Demo:** 點擊下方圖片觀看 UI 操作演示 👇
+      
+      [![Restaurant UI Demo](https://img.youtube.com/vi/IOje1E9tYug/0.jpg)](https://www.youtube.com/watch?v=IOje1E9tYug)
+
 ### 🏆 證照與成就 (Certifications & Awards)
 
 * **Microsoft Certified:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
