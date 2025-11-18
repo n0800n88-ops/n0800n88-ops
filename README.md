@@ -28,6 +28,9 @@
 * **[MVC 架構網站開發](https://github.com/n0800n88-ops/MVC-finalproject)** 🔗
     * 實作完整 CRUD 功能，整合資料庫管理。
     * **Tech:** `ASP.NET MVC` `SQL Server` `HTML/CSS`
+    * **Demo:** 點擊下方圖片觀看操作影片 👇
+      
+      [![MVC Demo Video](https://img.youtube.com/vi/VAfSTMfKFLQ/0.jpg)](https://www.youtube.com/watch?v=VAfSTMfKFLQ)
 
 * **系統分析與設計**：Android App 介面設計與流程規劃 [Tech: `Android Studio`, `UML Modeling`]
 
