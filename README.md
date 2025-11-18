@@ -34,7 +34,7 @@
 
 * **系統分析與設計[Android 記帳 App (Money App)](https://github.com/n0800n88-ops/Money-App)** 🔗
     * **專案描述：** 擔任專案領導人，負責 UI/UX 介面設計、UML 系統建模與開發流程規劃。
-    * **Tech:** `Android Studio` `Kotlin` `UML Modeling`
+    * **Tech:** `Android Studio` `Kotlin` `UML Modeling` `System Analysis`
     * **Documents:** 專案完整分析報告與簡報 👇
         * 📄 [系統分析與設計報告 (完整版)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20word.pdf)
         * 📊 [專案開發簡報 (Presentation)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20簡報.pdf)
@@ -51,7 +51,7 @@
 
 * **[餐廳訂位 App (UI Design Demo)](https://github.com/n0800n88-ops/Restaurant-Booking-UI)** 🔗
     * **專案描述：** 專注於 Android 前端介面開發與 Material Design 實作，展示完整的訂位與點餐 UI 流程。
-    * **Tech:** `Android Studio` `Java` `XML Layouts` `UI/UX`
+    * **Tech:** `Android Studio` `Kotlin` `XML Layouts` `UI/UX`
     * **Demo:** 點擊下方圖片觀看 UI 操作演示 👇
       
       [![Restaurant UI Demo](https://img.youtube.com/vi/IOje1E9tYug/0.jpg)](https://www.youtube.com/watch?v=IOje1E9tYug)
