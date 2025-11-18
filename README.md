@@ -32,7 +32,15 @@
       
       [![MVC Demo Video](https://img.youtube.com/vi/VAfSTMfKFLQ/0.jpg)](https://www.youtube.com/watch?v=VAfSTMfKFLQ)
 
-* **系統分析與設計**：Android App 介面設計與流程規劃 [Tech: `Android Studio`, `UML Modeling`]
+* **系統分析與設計[Android 記帳 App (Money App)](https://github.com/n0800n88-ops/Money-App)** 🔗
+    * **專案描述：** 擔任專案領導人，負責 UI/UX 介面設計、UML 系統建模與開發流程規劃。
+    * **Tech:** `Android Studio` `Kotlin` `UML Modeling`
+    * **Documents:** 專案完整分析報告與簡報 👇
+        * 📄 [系統分析與設計報告 (完整版)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20word.pdf)
+        * 📊 [專案開發簡報 (Presentation)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20簡報.pdf)
+    * **Demo:** 點擊下方圖片觀看操作影片 👇
+      
+      [![Money App Demo](https://img.youtube.com/vi/1r66Jg2KCgA/0.jpg)](https://www.youtube.com/shorts/1r66Jg2KCgA)
 
 ### 🏆 證照與成就 (Certifications & Awards)
 
