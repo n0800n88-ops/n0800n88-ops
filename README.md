@@ -42,6 +42,13 @@
       
       [![Money App Demo](https://img.youtube.com/vi/1r66Jg2KCgA/0.jpg)](https://www.youtube.com/shorts/1r66Jg2KCgA)
 
+* **資料庫管理實務[線上火鍋訂餐系統 (Hot Pot System)](https://github.com/n0800n88-ops/Hot-Pot-System-PHP)** 🔗
+    * **專案描述：** 基於 PHP 與 MySQL 開發的 Web 應用，實現線上訂位與點餐功能。負責 UI/UX 設計、資料庫規劃與前端整合。
+    * **Tech:** `PHP` `MySQL` `System Analysis` `UI/UX`
+    * **Demo:** 點擊下方圖片觀看操作影片 👇
+      
+      [![Hot Pot Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
+
 ### 🏆 證照與成就 (Certifications & Awards)
 
 * **Microsoft Certified:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
