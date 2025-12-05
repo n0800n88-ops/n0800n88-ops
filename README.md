@@ -53,6 +53,14 @@
       
       [![Hot Pot Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
 
+* **[智慧選址決策支援系統 (Smart Location DSS)](https://github.com/n0800n88-ops/Smart-Location-DSS)** 🔗
+    * **專案描述：** 整合 Google Maps API 與 AHP/TOPSIS 演算法的 Web 決策工具，提供即時的選址評估與視覺化分析。
+    * **Tech:** `JavaScript` `Google Maps API` `MCDM (AHP/TOPSIS)`
+    * **Documents:** 📄 [專案報告](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統Assignment%20_2.pdf) | 📊 [分析簡報](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統分析.pdf)
+    * **Demo:** 點擊下方圖片觀看操作影片 👇
+      
+      [![DSS Demo](https://img.youtube.com/vi/YPZCVL7keUE/0.jpg)](https://www.youtube.com/watch?v=YPZCVL7keUE)
+      
 * **[餐廳訂位 App (UI Design Demo)](https://github.com/n0800n88-ops/Restaurant-Booking-UI)** 🔗
     * **專案描述：** 專注於 Android 前端介面開發與 Material Design 實作，展示完整的訂位與點餐 UI 流程。
     * **Tech:** `Android Studio` `Kotlin` `XML Layouts` `UI/UX`
