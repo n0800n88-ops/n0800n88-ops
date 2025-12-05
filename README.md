@@ -11,6 +11,10 @@
     * **WebForm 多語系開發**：使用 `C#` 與 `ASP.NET` 進行功能維護與開發。
     * **AI 與自動化應用**：運用 `Copilot Studio` 與 `Power Automate` 輔助開發與測試流程。
     * **程式碼品質管理**：使用 `SonarQube` 進行風險檢測與修正。
+    * **🚀 實習成果 (Internship Achievements)**
+        * 🌐 **[實習成果展示網站](https://intern.mis.yzu.edu.tw/Z/index.html)**
+        * 📄 **[專案成果報告 (PDF)](https://cea4183a-ad86-4bc5-8a1d-aced22baa405.filesusr.com/ugd/6a8037_6958e0675ff64f178a6bec915d60abf8.pdf)**
+        * 🎥 **[成果演示影片](https://www.youtube.com/watch?v=_o5dU6vwjr8)**<br> [![MiTAC Internship Demo](https://img.youtube.com/vi/_o5dU6vwjr8/0.jpg)](https://www.youtube.com/watch?v=_o5dU6vwjr8)
 
 * **國泰投信 Cathay Site | 人資行政部 CIP 實習生** (2024 Summer)
     * **行政流程優化**：簡化內部申請流程，提升作業效率。
