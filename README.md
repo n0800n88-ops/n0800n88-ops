@@ -54,6 +54,7 @@
       [![Hot Pot Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
 
 * **[智慧選址決策支援系統 (Smart Location DSS)](https://github.com/n0800n88-ops/Smart-Location-DSS)** 🔗
+    * 🌐 **[線上試玩 (Live Demo)](https://n0800n88-ops.github.io/Smart-Location-DSS/)**
     * **專案描述：** 整合 Google Maps API 與 AHP/TOPSIS 演算法的 Web 決策工具，提供即時的選址評估與視覺化分析。
     * **Tech:** `JavaScript` `Google Maps API` `MCDM (AHP/TOPSIS)`
     * **Documents:** 📄 [專案報告](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統Assignment%20_2.pdf) | 📊 [分析簡報](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統分析.pdf)
