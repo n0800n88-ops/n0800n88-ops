@@ -6,26 +6,27 @@
 
 ### 💼 工作經歷 (Work Experience)
 
-* **神達電腦 MiTAC | 網頁系統發展處 實習生**
-    * **PLM 系統全端開發與維運 (Aras OpenPLM)**：
+* **神達電腦 MiTAC | 網頁系統發展處 實習生** (2025.02 - Present)
+    * ⚙️**PLM 系統全端開發與維運 (Aras OpenPLM)**：
        * 從零到有掌握系統流程獨立建置能力，精通 Item Type、Form、Relationship Type、LifeCycle 到 Workflow 的完整產品生命週期與流程建置的串接順序。
        * 透過大量系統測試並獨立撰寫測試案例、測試報告與操作手冊，深度扎根 PLM 領域 Know-how。熟悉 Part (零件)、BOM (物料清單)、版本控制 (TMP 機制) 及變更管理流程等企業級製造規範。
        * 負責備份還原演練功能測試，於封閉環境驗證系統可用性，確保企業資料安全。
-    * **全端報表開發與資安防護 (Vue.js + C# WebAPI + SQL)**：
+    * 💻**全端報表開發與資安防護 (Vue.js + C# WebAPI + SQL)**：
        * 採用前後端分離架構，獨立負責「客戶料號批次上傳查詢」報表開發，防禦 SQL Injection。
        * 秉持「後端先行確立資料流，前端專注優化介面」的敏捷原則，有效消弭人工逐筆查詢的痛點。
        * 熟悉 GitLab 版本控制流程，嚴格執行程式碼從開發區 (DEV)、測試區 (UAT) 至正式環境 (PRD) 的 Merge Request審查與整併機制，落實程式碼品質把關。
-    * **AI 智能客服與知識工程 (Copilot Studio)**：
+    * 🤖**AI 智能客服與知識工程 (Copilot Studio)**：
        * 開發 PLM 專屬 Chatbot，實作圖片解析工作流與對話記憶清除 (Reset) 功能。
        * 持續擴充 KM 知識庫修補問答盲區，將問答覆蓋率提升至 100%、準確率達 91%，並作為 Sub-Chatbot 成功整合至企業級 GSG 系統，有效攔截並解決基礎操作問題。
-    * **RPA 自動化腳本開發 (Power Automate)**：
+    * 🦾**RPA 自動化腳本開發 (Power Automate)**：
        * 撰寫自動化腳本並配合伺服器排程執行，取代人工跨平台檔案搬運的繁瑣作業。
        * 開發將操作手冊自動轉換為 KM 文件的腳本流程。
        * 著手研究 RPA 寄信與 Chatbot 自動回信的技術串接，極大化行政與維運效率。
-    * **POC 專案管理與架構規劃 (Project Management)**：
+    * 📊**POC 專案管理與架構規劃 (Project Management)**：
        * 擔任下半年「OpenPLM AI Link」專案 PM，針對跨模組智能查詢、文件預覽與行動端簽核等痛點，運用 AI 輔助規劃 POC 系統架構圖與五階段導入計畫。
 
 **🚀 實習成果 (Internship Achievements)**
+* 📝 **[神達實習成果報告 (公司成果發表)](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/2026_02_06_Shelly_神達電腦實習成果報告.pdf)**
 * 📜 **[實習成果海報 (Poster)](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/Z.pdf)**
 * 🌐 **[實習成果展示網站](https://intern.mis.yzu.edu.tw/Z/index.html)**
 * 📄 **[專案成果報告 (PDF)](https://cea4183a-ad86-4bc5-8a1d-aced22baa405.filesusr.com/ugd/6a8037_6958e0675ff64f178a6bec915d60abf8.pdf)**
