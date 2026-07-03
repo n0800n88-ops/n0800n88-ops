@@ -3,6 +3,15 @@
 > 💻 **元智資管大四生** | 🚀 **神達電腦 (MiTAC) 實習生**
 
 我熱衷於將資訊技術應用於解決商業問題，目前專注於網頁系統開發、自動化測試與 AI 技術整合。
+### 🏆 證照與成就 (Certifications & Awards)
+
+* **Microsoft Certificate:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
+* **Google Certified:** [Gemini Certification for Educators](https://edu.google.accredible.com/cce081fc-8bcd-42a3-855c-64674d047bf5#acc.Za5eXEmP)
+* **Claude Certificate:** [Claude 101](https://verify.skilljar.com/c/ub977agdvf23)
+* **Academic:** 元智資管系排名前 11%
+
+### 📫 聯絡我 (Contact)
+* Email: n0800n88@gmail.com
 
 ### 💼 工作經歷 (Work Experience)
 
@@ -95,12 +104,3 @@
     * **Demo:** 點擊下方圖片觀看 UI 操作演示 👇
       
       [![Restaurant UI Demo](https://img.youtube.com/vi/IOje1E9tYug/0.jpg)](https://www.youtube.com/watch?v=IOje1E9tYug)
-
-### 🏆 證照與成就 (Certifications & Awards)
-
-* **Microsoft Certified:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
-* **Google Certified:** [Gemini Certification for Educators](https://edu.google.accredible.com/cce081fc-8bcd-42a3-855c-64674d047bf5#acc.Za5eXEmP)
-* **Academic:** 元智資管系排名前 11%
-
-### 📫 聯絡我 (Contact)
-* Email: n0800n88@gmail.com
