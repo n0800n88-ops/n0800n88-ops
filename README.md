@@ -7,7 +7,7 @@
 
 * **Microsoft Certificate:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
 * **Google Certified:** [Gemini Certification for Educators](https://edu.google.accredible.com/cce081fc-8bcd-42a3-855c-64674d047bf5#acc.Za5eXEmP)
-* **Claude Certificate:** [Claude 101](https://verify.skilljar.com/c/ub977agdvf23) 、 [Claude Code 101](https://verify.skilljar.com/c/3qbupvtkkooq)
+* **Claude Certificate:** [Claude 101](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/Claude%20101.png) 、 [Claude Code 101](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/Claude%20Code%20101.png)
 * **Academic:** 元智資管系排名前 11%
 
 ### 📫 聯絡我 (Contact)
