@@ -6,7 +6,7 @@
 ### 🏆 證照與成就 (Certifications & Awards)
 
 * **Microsoft Certificate:** [Microsoft認證：Azure AI 基本概念 (AI-900)](https://learn.microsoft.com/api/credentials/share/zh-tw/02947170/307A0BA6CA4C8BEF?sharingId)
-* **Google Certified:** [Gemini Certification for Educators](https://edu.google.accredible.com/cce081fc-8bcd-42a3-855c-64674d047bf5#acc.Za5eXEmP)
+* **Google Certificate:** [Gemini Certification for Educators](https://edu.google.accredible.com/cce081fc-8bcd-42a3-855c-64674d047bf5#acc.Za5eXEmP)
 * **Claude Certificate:** [Claude 101](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/Claude%20101.png) 、 [Claude Code 101](https://github.com/n0800n88-ops/n0800n88-ops/blob/main/Claude%20Code%20101.png)
 * **Academic:** 元智資管系排名前 11%
 
@@ -22,7 +22,7 @@
        * 負責備份還原演練功能測試，於封閉環境驗證系統可用性，確保企業資料安全。
     * 💻**全端報表開發與資安防護 (Vue.js + C# WebAPI + SQL)**：
        * 採用前後端分離架構，獨立負責「客戶料號批次上傳查詢」報表開發，防禦 SQL Injection。
-       * 秉持「後端先行確立資料流，前端專注優化介面」的敏捷原則，有效消弭人工逐筆查詢的痛點。
+       * 建立「先完成後端 API 確保資料正確，再開發前端介面」的實務模式，確保前後端串接順暢無誤，並成功解決人工逐筆查詢耗時的問題。
        * 熟悉 GitLab 版本控制流程，嚴格執行程式碼從開發區 (DEV)、測試區 (UAT) 至正式環境 (PRD) 的 Merge Request審查與整併機制，落實程式碼品質把關。
     * 🤖**AI 智能客服與知識工程 (Copilot Studio)**：
        * 開發 PLM 專屬 Chatbot，實作圖片解析工作流與對話記憶清除 (Reset) 功能。
