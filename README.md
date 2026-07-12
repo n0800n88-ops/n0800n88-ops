@@ -69,6 +69,7 @@
     * 實作完整 CRUD 功能，整合資料庫管理。
     * **Tech:** `ASP.NET MVC` `SQL Server` `HTML/CSS`
     * **Demo:** 點擊下方圖片觀看操作影片 👇
+      [MVC Demo Video](https://www.youtube.com/watch?v=VAfSTMfKFLQ)
       
       [![MVC Demo Video](https://img.youtube.com/vi/VAfSTMfKFLQ/0.jpg)](https://www.youtube.com/watch?v=VAfSTMfKFLQ)
 
@@ -79,6 +80,7 @@
         * 📄 [系統分析與設計報告 (完整版)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20word.pdf)
         * 📊 [專案開發簡報 (Presentation)](https://github.com/n0800n88-ops/Money-App/blob/main/系統分析與設計%20記帳軟體系統優化%20簡報.pdf)
     * **Demo:** 點擊下方圖片觀看操作影片 👇
+      [Money App Demo](https://www.youtube.com/shorts/1r66Jg2KCgA)
       
       [![Money App Demo](https://img.youtube.com/vi/1r66Jg2KCgA/0.jpg)](https://www.youtube.com/shorts/1r66Jg2KCgA)
 
@@ -86,6 +88,7 @@
     * **專案描述：** 基於 PHP 與 MySQL 開發的 Web 應用，實現線上訂位與點餐功能。負責 UI/UX 設計、資料庫規劃與前端整合。
     * **Tech:** `PHP` `MySQL` `System Analysis` `UI/UX`
     * **Demo:** 點擊下方圖片觀看操作影片 👇
+      [Hot Pot Demo](https://www.youtube.com/watch?v=nmrHamwRPFI)
       
       [![Hot Pot Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
 
@@ -95,6 +98,7 @@
     * **Tech:** `JavaScript` `Google Maps API` `MCDM (AHP/TOPSIS)`
     * **Documents:** 📄 [專案報告](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統Assignment%20_2.pdf) | 📊 [分析簡報](https://github.com/n0800n88-ops/Smart-Location-DSS/blob/main/決策系統分析.pdf)
     * **Demo:** 點擊下方圖片觀看操作影片 👇
+      [DSS Demo](https://www.youtube.com/watch?v=YPZCVL7keUE)
       
       [![DSS Demo](https://img.youtube.com/vi/YPZCVL7keUE/0.jpg)](https://www.youtube.com/watch?v=YPZCVL7keUE)
       
@@ -102,5 +106,6 @@
     * **專案描述：** 專注於 Android 前端介面開發與 Material Design 實作，展示完整的訂位與點餐 UI 流程。
     * **Tech:** `Android Studio` `Kotlin` `XML Layouts` `UI/UX`
     * **Demo:** 點擊下方圖片觀看 UI 操作演示 👇
+      [Restaurant UI Demo](https://www.youtube.com/watch?v=IOje1E9tYug)
       
       [![Restaurant UI Demo](https://img.youtube.com/vi/IOje1E9tYug/0.jpg)](https://www.youtube.com/watch?v=IOje1E9tYug)
